@@ -66084,8 +66084,8 @@ A.CA.prototype={
 J(a){var s=null
 return A.Il(A.cX(s,B.x6,B.u,s,new A.bC(s,s,s,s,s,new A.c7(B.R,B.P,B.L,A.P(a).ax.a===B.p?$.i5():$.i8,s,s),B.J),s,s,s,s,s,s,s,s),s)}}
 A.Cw.prototype={
-J(a){var s=null,r="Latest Projects",q=10*$.n().gL(),p=20*$.n().gU()
-return new A.bf(new A.aa(q,p,q,p),A.ui(A.a([new A.jY(new A.aa(0,0,0,20*$.n().gU()),new A.iO(new A.pj(B.d.a5(r,0,5),B.d.bU(r,6),s),s),s),A.De(B.Mn,new A.Sz(),t.GG)],t.p)),s)}}
+J(a){var s=null,r="Achievements",q=10*$.n().gL(),p=20*$.n().gU()
+return new A.bf(new A.aa(q,p,q,p),A.ui(A.a([new A.jY(new A.aa(0,0,0,20*$.n().gU()),new A.iO(new A.pj(B.d.a5(r,0,5),B.d.bU(r,5),s),s),s),A.De(B.Mn,new A.Sz(),t.GG)],t.p)),s)}}
 A.Sz.prototype={
 $1(a){return A.aub()},
 $S:422}
@@ -66668,7 +66668,7 @@ J(a){var s=null
 return A.Il(A.cX(s,B.LV,B.u,s,new A.bC(s,s,s,s,s,new A.c7(B.R,B.P,B.L,A.P(a).ax.a===B.p?$.i5():$.i8,s,s),B.J),s,s,s,s,s,s,s,s),s)}}
 A.Hb.prototype={
 J(a){var s=null,r="Latest Projects",q=10*$.n().gL(),p=20*$.n().gU()
-return new A.bf(new A.aa(q,p,q,p),A.ui(A.a([new A.jY(new A.aa(0,0,0,20*$.n().gU()),new A.iO(new A.pj(B.d.a5(r,0,5),B.d.bU(r,6),s),s),s),A.De(B.Mo,new A.a2W(),t.lp)],t.p)),s)}}
+return new A.bf(new A.aa(q,p,q,p),A.ui(A.a([new A.jY(new A.aa(0,0,0,20*$.n().gU()),new A.iO(new A.pj(B.d.a5(r,0,6),B.d.bU(r,7),s),s),s),A.De(B.Mo,new A.a2W(),t.lp)],t.p)),s)}}
 A.a2W.prototype={
 $1(a){return A.ayg()},
 $S:433}
@@ -66762,7 +66762,7 @@ A.agh.prototype={
 $1(a){return new A.oc($.aJ())},
 $S:435}
 A.Gh.prototype={
-J(a){return new A.xu(new A.vX(B.Fd,"Flutter Demo",(A.dy(a,!0,t.eC).a?B.TI:B.ws)===B.ws?$.ar0():$.ar_(),!1,null),!0,!0,B.Oq,null)}}
+J(a){return new A.xu(new A.vX(B.Fd,"Ahmed Elazab | Portfolio",(A.dy(a,!0,t.eC).a?B.TI:B.ws)===B.ws?$.ar0():$.ar_(),!1,null),!0,!0,B.Oq,null)}}
 A.tR.prototype={}
 A.vL.prototype={}
 A.Zs.prototype={
