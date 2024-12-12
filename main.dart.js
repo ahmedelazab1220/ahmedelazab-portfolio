@@ -20743,7 +20743,7 @@ SD:function SD(a,b){this.a=a
 this.b=b},
 auc(){var s,r=J.FB(4,t.y)
 for(s=0;s<4;++s)r[s]=!1
-return new A.me(r,A.a([B.x2,B.x3,B.x4,B.x5],t.Pr),$.aJ())},
+return new A.me(r,A.a([B.x2,B.x4,B.x3,B.x5],t.Pr),$.aJ())},
 me:function me(a,b,c){var _=this
 _.a=a
 _.b=b
@@ -72272,8 +72272,8 @@ B.j8=J.k4.prototype
 B.x0=new A.Cr(null)
 B.VQ=new A.Sy(0,"unknown")
 B.x2=new A.md("assets/icons/linkedin.svg",u.Q,"LinkedIn","Problem Setter, ECPC (Egyptian Collegiate Programming Contest)","2023 - 2024 | Designed complex algorithmic problems that challenged participants' coding skills, contributing to the competitive.")
-B.x3=new A.md("assets/icons/linkedin.svg",u.Q,"LinkedIn","Co-Coach, ECPC (Egyptian Collegiate Programming Contest).","2024 - 2025 | Mentored and trained teams to improve their problem-solving strategies and excel in national competitive programming contests.")
-B.x4=new A.md("assets/icons/linkedin.svg",u.Q,"LinkedIn","Technical Instructor at Count Zero Bootcamp (CSTU - Tanta University).","2022 - 2023 | Taught algorithms, simplifying complex concepts to build students' problem-solving skills and practical understanding (e.g., Binary Search). ")
+B.x3=new A.md("assets/icons/linkedin.svg","https://www.linkedin.com/company/count-zero-cstu/","LinkedIn","Technical Instructor at Count Zero Bootcamp (CSTU - Tanta University).","2022 - 2023 | Taught algorithms, simplifying complex concepts to build students' problem-solving skills and practical understanding (e.g., Binary Search). ")
+B.x4=new A.md("assets/icons/linkedin.svg",u.Q,"LinkedIn","Co-Coach, ECPC (Egyptian Collegiate Programming Contest).","2024 - 2025 | Mentored and trained teams to improve their problem-solving strategies and excel in national competitive programming contests.")
 B.x5=new A.md("assets/icons/github.svg","https://github.com/TheAlgorithms/Java/pull/5479","GitHub","Open Source Contributor at TheAlgorithms\\Java (GitHub).","2024 - 2025 | Added and tested the Frustum of Cone algorithm, improving the library's functionality for computational geometry applications.")
 B.x6=new A.Cw(null)
 B.ak=new A.h9(1,0,0,1,0,0,1)
